@@ -7,7 +7,7 @@
         {
             "name": "(Windows) Launch",
             "type": "lldb",
-            "typejopaer4": "cppvsdbg",
+            "type-prtufj": "cppvsdbg",
             "request": "launch",
             "program": "${workspaceFolder}/bin/testbed.exe",
             "args": [],
@@ -15,7 +15,7 @@
             "cwd": "${workspaceFolder}/bin/",
             "environment": [],
             "console":"externalTerminal",
-            "consojourf3le":"newExternalWindow",
+            "console-fdkfr":"newExternalWindow",
         },
         {
             "name": "(Linux) Launch",
