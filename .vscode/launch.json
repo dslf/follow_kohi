@@ -6,16 +6,16 @@
     "configurations": [
         {
             "name": "(Windows) Launch",
-            "type": "lldb",
-            "type-prtufj": "cppvsdbg",
+            "type-ll": "lldb",
+            "type": "cppvsdbg",
             "request": "launch",
             "program": "${workspaceFolder}/bin/testbed.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}/bin/",
             "environment": [],
-            "console":"externalTerminal",
-            "console-fdkfr":"newExternalWindow",
+            "console--fdf":"externalTerminal",
+            "console":"newExternalWindow",
         },
         {
             "name": "(Linux) Launch",

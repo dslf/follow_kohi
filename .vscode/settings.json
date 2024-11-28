@@ -9,8 +9,10 @@
     "editor.fontWeight": "1",
     "workbench.editor.showTabs": "single",
     "workbench.colorCustomizations": {
-        "editorCursor.foreground": "#00ff33",
-        "editor.lineHighlightBackground": "#111144"
+        "editorCursor.foreground--fdfd": "#00ff33",
+        "editorCursor.foreground": "#F4CA16",
+        "editor.lineHighlightBackground": "#272B2C"
+        "editor.lineHighlightBackground--fdfd": "#111144"
     },
     "workbench.statusBar.visible": true,
     "editor.lineNumbers": "on",
